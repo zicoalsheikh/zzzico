@@ -3,39 +3,7 @@
    
    "contacts": [
                                     
-                     {
-                "id": "c200",
-                "name": "ابوحنظلة السوداني",
-                "nameshal": "شيله دلا دلا ياطالب القمة دلا",
-                "url": "http://dev-zico.com/shailt/z1.mp3",
-                "nameid": "1"
-              
-               
-        },  {
-                "id": "c200",
-                "name": "ابوحنظلة السوداني",
-                "nameshal": "جينا اهجدو جينا اهجدو ",
-                "url": "http://dev-zico.com/shailt/z2.mp3",
-                "nameid": "2"
-              
-               
-        },    {
-                "id": "c200",
-                "name": "ابوحنظلة السوداني",
-                "nameshal": "شيلة _ صفوة الخيل",
-                "url": "http://dev-zico.com/shailt/z3.mp3",
-                "nameid": "3"
-              
-               
-        },  {
-                "id": "c200",
-                "name": "ابوحنظلة السوداني",
-                "nameshal": "شيلة كيف بنساة",
-                "url": "http://dev-zico.com/shailt/z4.mp3",
-                "nameid": "4"
-              
-               
-        },{
+           {
                 "id": "c200",
                 "name": "ابوحنظلة السوداني",
                 "nameshal": "شيلة لانوره ولالمياء",
